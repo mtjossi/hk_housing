@@ -1,0 +1,301 @@
+,Input Date,Usage,District,Street in English,Street in Chinese,Building in English,Building in Chinese,Floor and Unit,Gross Area (ft²),Rental,Rental per ft²,OP Date,Exp Year,Agent,Agent Number
+0,2021-07-06,Commercial Shop,Tsim Sha Tsui,CAMERON RD 30-32,金馬倫道30-32號,CAMMER COM BLDG,金馬商業大廈,Floor:G,1957,250000.0,127.75,1979 (Property age 42 years),2039,筍盤地產,36860396
+1,2021-11-19,Residential,Tai Kok Tsui,LI TAK ST 11,利得街11號,ELTANIN SQUARE MILE TWR 02,利奧坊曉岸 第02座,Floor:M Block:B,368,14000.0,38.04,2017 (Property age 4 years),2870,Jack Lam,92982228
+2,2021-11-18,Residential,Tsim Sha Tsui,HILLWOOD RD 25-27,山林道25-27號,PINE TREE BLDG,松林大廈,Floor:L Block:B,nan,18000.0,36.81,1974 (Property age 47 years),2043,Jack Lam,92982228
+3,2021-09-14,Village House,Tai Po,--,汀角路,--,全新三樓連天台近海邊渡假屋!!,Floor:H,302,9900.0,32.78,--,--,天匯物業,94990138
+4,2021-11-13,Residential,Yau Ma Tei,YAU CHEUNG RD 1,友翔道1號,THE CORONATION TWR 02,御金國峰 第02座,Floor:H Block:A,1241,39000.0,31.43,2012 (Property age 9 years),2057,Samuel Tam,97062008
+5,2021-10-25,Residential,Tsim Sha Tsui,AUSTIN RD W 1,柯士甸道西1號,CULLINAN II OCEAN SKY,天璽 II 海鑽璽,Floor:H Block:C,886,39000.0,44.02,2006 (Property age 15 years),2047,Samuel Tam,68923815
+6,2021-11-12,Residential,Tai Kok Tsui,FUK CHAK ST 8,福澤街8號,SABLIER,傲寓,,nan,15300.0,46.22,2021,2067,,97419892
+7,2021-11-12,Residential,Tsim Sha Tsui,AUSTIN RD 1-1C,柯士甸道1-1號C,WAI ON BLDG BLK A,偉安大廈 A座,,nan,14800.0,37.95,1962 (Property age 59 years),2050,,97419892
+8,2021-05-18,Residential,Repulse Bay,REPULSE BAY RD 79,淺水灣道79號,CIRCLE LODGE,環翠園,,4100,250000.0,60.98,1992 (Property age 29 years),--,PAUL MAU,5982379
+9,2021-10-18,Residential,Tuen Mun,SO KWUN WAT RD 99,掃管笏路99號,LE PONT TWR 03B,上源 第03B座,,nan,13800.0,31.01,2020 (Property age 1 years),2065,,63814088
+10,2021-10-05,Residential,Tai Kok Tsui,HOI FAI RD 8,海輝道8號,LONG BEACH,浪澄灣,Floor:H Block:A,nan,42000.0,49.88,--,2050,,97419892
+11,2020-03-28,Land / Warehouse,Fan Ling,--,沙頭角路,--,--,,6000,30000.0,5.0,--,--,陶小姐,63499668
+12,2020-08-07,Residential,Fan Ling,SAN WAN RD 33,新運路33號,FANLING CTR,粉嶺,Floor:H,nan,33800.0,45.37,1990 (Property age 31 years),2047,EILEEN肖小姐,96025037
+13,2019-04-01,Industrial,Fan Ling,ON KUI ST,安居街,--,--,,1096,15800.0,14.42,--,--,EILEEN肖小姐,96025037
+14,2021-04-23,--,Fan Ling,--,--,--,嘉和軒,Floor:L,nan,15000.0,23.55,2003 (Property age 18 years),2047,IVAN 余生,67632939
+15,2018-09-06,Industrial,Fan Ling,YIP FUNG ST 15,業豐街15號,POLY CTR,寶利中心,,985,13000.0,13.2,1988 (Property age 33 years),2047,IVAN 余生,67632939
+16,2021-07-13,Residential,Fan Ling,WO FUNG ST 28,和豐街28號,COMMUNE MODERN TWR 02,囍逸 第02座,Floor:H,nan,33800.0,45.37,2018 (Property age 3 years),2064,EILEEN肖小姐,96025037
+17,2019-01-26,Residential,Fan Ling,--,--,--,囍逸,Floor:M,nan,14500.0,,2018 (Property age 3 years),2064,EILEEN 肖小姐,96025037
+18,2021-09-24,Industrial,Fan Ling,--,安樂村安全街21A,--,--,Floor:L Block:2,370,11800.0,31.89,--,--,88物業代理公司,26036698
+19,2021-06-11,Village House,Fan Ling,FANLING,粉嶺,--,--,,700,14500.0,20.71,--,--,肖小姐 EILEEN,96025037
+20,2021-12-06,Residential,Sham Shui Po,HAI TAN ST 203,海壇街203號,SEASIDE SONATA TWR 02,愛海頌 第02座,Floor:H,nan,18000.0,36.96,2021,2065,,97871118
+21,2021-12-06,Village House,Tai Po,NAM HANG,南坑,NAM HANG,南坑,,700,15200.0,21.71,2004 (Property age 17 years),--,MICHAEL 劉先生,63933766
+22,2021-12-05,Residential,Tai Po,ON PONG RD 6,安邦路6號,TAI PO CTR,大埔中心,Floor:M,665,21000.0,31.58,1987 (Property age 34 years),2047,LILY WONG,66232169
+23,2021-11-18,Residential,Tai Po,PLOVER COVE RD 3,寶湖道3號,PLOVER COVE GDN,寶湖花園,Floor:M,428,13800.0,32.24,1990 (Property age 31 years),2047,98479913,98479913
+24,2021-11-28,Residential,Kennedy Town,ROCK HILL ST 9,石山街9號,BELCHER'S HILL,寶雅山,Floor:H Block:A,972,36000.0,37.04,2011 (Property age 10 years),2891,,62359998
+25,2021-12-03,Residential,Kennedy Town,DAVIS ST 8,爹核士街8號,MERTON BLK 03,泓都 第03座,Floor:H Block:G,692,28000.0,40.46,2004 (Property age 17 years),2052,,62359998
+26,2021-12-03,Village House,Tai Po,TING KOK,汀角,TING KOK,汀角,Floor:L,700,15500.0,22.14,--,--,Adam 林先生,60977601
+27,2021-12-02,Residential,Chai Wan,HONG MAN ST 3,康民街3號,BAYVIEW PARK,灣景園,Floor:H Block:D,nan,16500.0,,1999 (Property age 22 years),2047,恆豐地產,28983372
+28,2020-11-15,Village House,Yuen Long,SHEK WU TONG,石湖塘,--,獨家●錦上路地下,Floor:L,500,9800.0,19.6,--,2047,Andy 楊生,97891668
+29,2021-12-03,Residential,Quarry Bay,YAU MAN ST 38,祐民街38號,KORNVILLE,康蕙花園,,777,26000.0,33.46,1995 (Property age 26 years),2881,,94552388
+30,2020-09-02,Village House,Yuen Long,HUNG TSO TIN,紅棗田,JOYFUL VILLAS,紅棗田●三樓連天台,Floor:H,1460,15000.0,10.27,--,--,Adrian 馮生,97747977
+31,2021-12-01,Residential,Wong Tai Sin,WAN FUNG ST 68,環鳳街68號,ASPEN CREST,鑽嶺,Floor:M,nan,10500.0,53.03,2018 (Property age 3 years),2047,金匯地產 馬先生,66702399
+32,2021-11-30,Residential,Shatin,KAK TIN ST 1-3,隔田街1-3號,GOLDEN LION GDN,金獅花園,Floor:L,530,13500.0,25.47,1987 (Property age 34 years),2047,陳先生,61667088
+33,2021-10-03,Residential,Ho Man Tin,CHUNG HAU ST 66,忠孝街66號,CHUN MAN COURT BLK B (HOS),俊民苑 B座 文斌閣,Floor:M Block:3,nan,18000.0,,1980 (Property age 41 years),2052,譚先生,61376677
+34,2021-10-21,Residential,Yau Ma Tei,WATERLOO RD 8,窩打老道8號,8 WATERLOO RD TWR 02,窩打老道8號 第02座,Floor:H Block:B,586,18300.0,31.23,2004 (Property age 17 years),2002,信聯物業,27702662
+35,2021-09-04,Residential,Kennedy Town,KENNEDY TOWN NEW PRAYA 38,堅彌地城新海旁38號,MERTON,泓都,Floor:H Block:G,nan,36000.0,54.63,2005 (Property age 16 years),2052,,62359998
+36,2021-11-27,Residential,Kennedy Town,ROCK HILL ST 9,石山街9號,BELCHER'S HILL,寶雅山,Floor:H Block:A,972,36000.0,37.04,2011 (Property age 10 years),2891,世紀21堅誠地產,55005513
+37,2021-11-27,Residential,Sham Shui Po,HAI TAN ST 218,海壇街218號,SEASIDE SONATA TWR 01,愛海頌 第01座,Floor:H Block:D,889,28888.0,32.49,2021,2065,Jack Lam,92982228
+38,2021-11-27,Residential,Mong Kok,PORTLAND ST 163-173,砵蘭街163-173號,MANSUN HSE,萬新大廈,Floor:H Block:C,438,12500.0,28.54,1981 (Property age 40 years),2038,Jack Lam,92982228
+39,2021-11-26,Residential,Sham Shui Po,HAI TAN ST 203,海壇街203號,SEASIDE SONATA TWR 02,愛海頌 第02座,Floor:H Block:B,688,22000.0,31.98,2021,2065,Jack Lam,92982228
+40,2021-11-26,Residential,Yau Ma Tei,PUBLIC SQUARE ST 3,眾坊街3號,PROSPEROUS GDN PH 01 BLK 02,駿發花園 第01期 第02座,Floor:H Block:H,729,20000.0,27.43,1991 (Property age 30 years),2047,Jack Lam,92982228
+41,2021-11-26,Residential,Tin Shui Wai,TIN YAN RD 2,天恩路2號,CENTRAL PARK TWRS PH 01 TWR 03,柏慧豪園 第01期 第03座,,661,12500.0,18.91,2007 (Property age 14 years),2052,余生,68263893
+42,2021-11-24,Village House,Shatin,--,--,--,大圍村屋罕有連天台 近車站 可養小狗,,420,13500.0,32.14,1992 (Property age 29 years),--,好 運 來 物 業,26812228
+43,2021-11-25,Residential,Hunghom,TAK HONG ST 6,德康街6號,WHAMPOA GDN SITE 11 BLK 02,黃埔花園 第11期 第02座,Floor:M Block:C,898,23800.0,26.5,1989 (Property age 32 years),2059,Jack Lam,92982228
+44,2021-10-23,Residential,Kennedy Town,ROCK HILL ST 9,石山街9號,BELCHER'S HILL,寶雅山,Floor:H Block:A,969,38800.0,40.04,2011 (Property age 10 years),2891,,62359998
+45,2021-11-24,Residential,Kennedy Town,KENNEDY TOWN NEW PRAYA 28,堅彌地城新海旁28號,MANHATTAN HTS,高逸華軒,Floor:L Block:C,nan,32500.0,45.58,2000 (Property age 21 years),2891,,93266235
+46,2021-11-24,Residential,Kennedy Town,KENNEDY TOWN NEW PRAYA 38,堅彌地城新海旁38號,MERTON,泓都,Floor:H Block:C,nan,25000.0,50.4,2005 (Property age 16 years),2052,,62359998
+47,2021-10-18,Residential,Kennedy Town,KENNEDY TOWN NEW PRAYA 38,堅彌地城新海旁38號,MERTON,泓都,Floor:H Block:G,692,28500.0,41.18,2005 (Property age 16 years),2052,,62359998
+48,2021-07-07,Residential,Yau Ma Tei,NATHAN RD 540-544,彌敦道540-544號,CHEUNG HING BLDG,祥興大廈,Floor:H,nan,19000.0,37.62,1966 (Property age 55 years),2048,廣信地產,27716017
+49,2021-09-07,Residential,Kowloon Bay,WAI YIP ST 33,偉業街33號,TELFORD GDN BLK U,德福花園 U座,Floor:L Block:12,609,14500.0,23.81,1981 (Property age 40 years),2047,洛基地產,27998060
+50,2021-11-17,Residential,North Point,WING HING ST 33-39,永興街33-39號,CHEONG SHING MAN,昌盛洋樓,Floor:H Block:D,424,16000.0,37.74,1979 (Property age 42 years),2014,世紀21堅誠地產,55005513
+51,2021-06-08,Residential,Hunghom,HUNG LAI RD 8,紅荔道8號,ROYAL PENINSULA BLK 02,半島豪庭 第02座,Floor:H Block:K,1365,37000.0,27.11,2000 (Property age 21 years),2047,迎富地產,26565633
+52,2021-11-16,Residential,Sham Shui Po,SHAM MONG RD 28,深旺道28號,CULLINAN WEST,匯璽,Floor:M Block:C,nan,24000.0,57.55,2019 (Property age 2 years),2062,Jack Lam,92982228
+53,2021-11-15,Village House,Shatin,--,--,--,大圍村屋 近車站 可商用,,250,10000.0,40.0,1994 (Property age 27 years),2047,好 運 來 物 業,26812228
+54,2021-11-15,Residential,Kennedy Town,KENNEDY TOWN NEW PRAYA 38,堅彌地城新海旁38號,MERTON BLK 02,泓都 第02座,Floor:H Block:H,nan,27000.0,53.36,2005 (Property age 16 years),2052,,93266235
+55,2021-07-12,Village House,Yuen Long,TONG FONG TSUEN,塘坊村,--,獨家市中心全幢,,2100,36000.0,17.14,--,2047,Andy 楊生,97891668
+56,2021-11-14,Residential,Kennedy Town,KENNEDY TOWN NEW PRAYA 38,堅彌地城新海旁38號,MERTON BLK 01,泓都 第01座,Floor:H Block:D,659,24500.0,37.18,2005 (Property age 16 years),2052,,93266235
+57,2021-11-13,Residential,Hunghom,OI KING ST 8,愛景街8號,HARBOUR PLACE,海濱南岸,Floor:M Block:A,559,17800.0,31.84,2002 (Property age 19 years),2049,Ms:Elsa 曲小姐,92371778
+58,2021-09-04,Residential,Kennedy Town,No.28 New Praya,新海旁28號,Manhattan heights,高逸華軒,Floor:L Block:C,nan,32000.0,45.78,1996 (Property age 25 years),2032,,62359998
+59,2021-11-12,Residential,Quarry Bay,KING'S RD 880,英皇道880號,CASA 880,--,,1066,35000.0,32.83,2008 (Property age 13 years),2893,,94552388
+60,2021-11-12,Residential,Hunghom,LAGUNA VERDE AVE 8,海逸道8號,LAGUNA VERDE THE GREEN WOOD TWR 05,海逸豪園 綠庭軒 第05座,Floor:H,679,21000.0,30.93,1998 (Property age 23 years),2047,Ms:Elsa 曲小姐,92371778
+61,2021-11-12,Residential,Hunghom,HUNG LAI RD 8,紅荔道8號,ROYAL PENINSULA BLK 03,半島豪庭 第03座,Floor:H,616,21000.0,34.09,2000 (Property age 21 years),2047,Ms:Sophia黃小姐,98337124
+62,2021-08-11,Village House,Shatin,--,--,--,大圍村屋 開陽大單邊 有露台有匙引看,Floor:M,380,12000.0,31.58,1986 (Property age 35 years),2047,好 運 來 物 業,26812228
+63,2021-08-25,Village House,Shatin,--,--,--,大圍村屋 近村口 獨家盤 罕有900呎可養小狗,Floor:L Block:2,900,15800.0,17.56,1983 (Property age 38 years),2047,好 運 來 物 業,26812228
+64,2021-10-02,Residential,Shatin,--,--,--,大圍洋樓 開陽光猛 業主會返新有匙引看,Floor:M,nan,14000.0,35.35,1975 (Property age 46 years),2047,好 運 來 物 業,26812228
+65,2021-11-10,Residential,Shatin,--,--,--,大圍唐樓 近車站 靚裝 大份傢電,Floor:M Block:D,nan,12800.0,40.25,1982 (Property age 39 years),2047,好 運 來 物 業,26812228
+66,2021-11-10,Residential,Kennedy Town,CADOGAN ST 37A,加多近街37號A,CADOGAN,加多近山,Floor:H Block:D,nan,28000.0,68.29,2014 (Property age 7 years),2882,,93266235
+67,2021-11-05,Residential,Kennedy Town,KENNEDY TOWN NEW PRAYA 38,堅彌地城新海旁38號,MERTON BLK 01,泓都 第01座,Floor:H Block:F,655,27500.0,41.98,2005 (Property age 16 years),2052,,62359998
+68,2021-11-10,Village House,Fan Ling,KWAN TEI,軍地,--,--,,700,12000.0,17.14,1996 (Property age 25 years),2047,Cammy 伍小姐,52020248
+69,2021-09-14,Village House,--,--,新淨企理,--,--,Floor:G,700,11900.0,17.0,--,--,Anita 蘇小姐,63684355
+70,2021-10-31,Residential,Yuen Long,FUNG CHEUNG RD 99,鳳翔路99號,VILLA PREMIERE BLK 05,朗怡居 第05座,Floor:L Block:D,697,14500.0,20.8,2000 (Property age 21 years),2047,凱陞物業,26313868
+71,2021-09-30,Village House,Yuen Long,HUNG TSO TIN TSUEN,水蕉新村,--,嘉發花園●可寵物三樓天台,Floor:H,1450,13500.0,9.31,--,2047,Andy 楊生,97891668
+72,2021-11-06,Residential,Shatin,CHUI TIN ST 12,翠田街12號,KING TIN COURT,景田苑,,584,15000.0,25.68,1983 (Property age 38 years),2047,吳小姐,51118881
+73,2021-11-07,Residential,Sheung Wan,STAUNTON ST 72,士丹頓街72號,CENTREPOINT,尚賢居,Floor:H Block:C,960,38000.0,39.58,2011 (Property age 10 years),2854,世紀21堅誠地產,55005513
+74,2021-10-28,Residential,Kennedy Town,CADOGAN ST 37A,加多近街37號A,CADOGAN,加多近山,Floor:H Block:C,484,25000.0,51.65,2014 (Property age 7 years),2882,世紀21堅誠地產,55005513
+75,2021-10-31,Residential,Tai Po,CHUI WO LANE 5,翠和里5號,--,--,Floor:H,539,14500.0,26.9,1991 (Property age 30 years),2047,LILY WONG,66232169
+76,2021-11-06,Village House,Yuen Long,--,錦上路,--,最抵住1200呎覆式單位!!,Floor:L,1200,20000.0,16.67,--,--,天匯物業,53776788
+77,2021-11-02,Residential,Tai Po,PAK SHING ST 9,北盛街9號,JADE GDN,翠河花園,Floor:M,550,13500.0,24.55,2000 (Property age 21 years),2047,98479913,98479913
+78,2021-11-11,Gov. Housing Scheme,Tung Chung,TAT TUNG RD 33,達東路33號,YU TUNG COURT,裕東苑,,nan,12800.0,23.75,--,--,DOMINIC 張生,98287567
+79,2021-08-26,Residential,Shek Kip Mei,PARC OASIS RD 3,又一居道3號,PARC OASIS,又一居,Floor:M Block:A,nan,26500.0,46.82,1992 (Property age 29 years),2047,,94670870
+80,2021-09-05,Residential,Hunghom,LAGUNA VERDE AVE 8,海逸道8號,LAGUNA VERDE,海逸豪園,,678,24000.0,35.4,2000 (Property age 21 years),2047,,96817447
+81,2021-08-12,Residential,Hunghom,LAGUNA VERDE AVE 8,海逸道8號,LAGUNA VERDE,海逸豪園,,738,22000.0,29.81,--,--,,95077033
+82,2010-07-12,Commercial Shop,Shau Kei Wan,SAI WAN HO ST 23,西灣河街23號,FU YAN COURT,富欣閣,Floor:,331,22800.0,68.88,1998 (Property age 23 years),2859,泰盛 EDMOND,90193739
+83,2021-12-06,Residential,Shatin,SIU LEK YUEN RD,小瀝源路,KWONG LAM COURT,廣林苑,Floor:H,509,11000.0,21.61,1990 (Property age 31 years),2047,萬方地產,29839699
+84,2020-09-13,Commercial Shop,Ma On Shan,HANG SHUN ST 2,恒信街2號,CHEVALIER GDN COM COMPLEX,富安花園商場(濕街市),,180,8000.0,44.44,1987 (Property age 34 years),2047,生威物業 黃生,93220292
+85,2021-12-06,Residential,Tsuen Wan,"CASTLE PEAK RD 94-96, TSUEN WAN",青山公路94-96號荃灣段,HO FAI GDN BLK 02,豪輝花園 第02座,Floor:H Block:A,699,15000.0,21.46,1990 (Property age 31 years),2047,ICE SIT,62275498
+86,2021-06-09,Residential,Sham Shui Po,FUK WA ST 45-51,福華街45-51號,HUNG FUK HSE,鴻福大樓,Floor:M,358,13500.0,37.71,1976 (Property age 45 years),2047,廣信地產,27716516
+87,2021-12-05,Residential,Mid-Levels West,CONDUIT RD 42,干德道42號,WINSOME PARK,匯豪閣,Floor:H Block:C,895,30000.0,33.52,1996 (Property age 25 years),2860,Daniel Yee,92318879
+88,2021-06-30,Industrial,Kwai Chung,KWAI CHEONG RD 26-38,葵昌路26-38號,HOOVER IND BLDG,豪華工業大廈,Floor:M Block:CC,200,3900.0,19.5,1974 (Property age 47 years),2047,弘基物業,23211929
+89,2021-11-11,Residential,Hunghom,BAKER ST 121,必嘉街121號,WHAMPOA GDN SITE 01 BLK 04,黃埔花園 第01期 第04座,Floor:M,859,28000.0,32.6,1985 (Property age 36 years),2059,Ms:Bella 阿華,98393999
+90,2021-08-18,Residential,Sai Kung,CHUK YEUNG RD,竹洋路,ARCADIA,龍嶺,,1800,68000.0,37.78,1987 (Property age 34 years),2047,本鴻地產,27921618
+91,2021-12-06,Residential,Quarry Bay,TAI YUE AVENUE 5,太裕路5號,"TAIKOO SHING, HING ON MANSION",太古城 安盛台 興安閣,Floor:H Block:F,600,23500.0,39.17,1980 (Property age 41 years),2899,彩天地產,25359243
+92,2021-12-06,Residential,Kennedy Town,DAVIS ST 8,爹核士街8號,MERTON BLK 03,泓都 第03座,Floor:M Block:C,401,20500.0,51.12,2004 (Property age 17 years),2052,世紀21堅誠地產,28191988
+93,2021-09-20,Residential,Sai Kung,CLEAR WATER BAY RD 663,清水灣道663號,MOUNT PAVILIA,傲瀧,,nan,24000.0,52.52,2016 (Property age 5 years),2061,MS YIP,91233579
+94,2021-10-06,Village House,Yuen Long,--,元朗大棠道南坑排村,--,--,Floor:H,700,14000.0,20.0,--,--,嘉朗地產,24851828
+95,2021-10-10,Land / Warehouse,Yuen Long,FUNG KAT HEUNG,逢吉鄉,--,--,,25000,118000.0,4.72,--,--,佳利物業,68052212
+96,2021-10-14,Village House,Tai Po,TING KOK RD,汀角路,LUNG MEI TSUEN,龍尾村頂樓連天台,,400,8800.0,22.0,--,2047,至誠地產,26389989
+97,2007-11-09,Residential,Quarry Bay,GREIG RD 34,基利路34號,NAN FUNG SUN CHUEN BLK 02,南豐新村 第02座,Floor:H Block:D,627,19500.0,31.1,1977 (Property age 44 years),2125,劉先生,63368451
+98,2021-10-21,Residential,Shatin,--,--,--,大圍唐樓套房 光猛 全傢電 有匙引看,Floor:M,nan,8500.0,44.74,1976 (Property age 45 years),2047,好 運 來 物 業,26812228
+99,2021-10-30,Village House,Sai Kung,--,西貢村屋,--,--,,2100,80000.0,38.1,--,--,謝生,62888644
+100,2021-10-31,Village House,Ma On Shan,SAI O,西澳,--,--,Floor:H,700,16500.0,23.57,--,2047,李小姐,92980834
+101,2021-11-29,Residential,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,Floor:H,626,16500.0,26.36,1980 (Property age 41 years),2047,鄭小姐,96038831
+102,2021-11-03,--,Sheung Shui,--,上水唐樓 1房1廳,--,--,,nan,7000.0,,--,--,劉小姐,56659989
+103,2021-11-04,Residential,Pokfulam,VICTORIA RD 550-555,域多利道550-555號,BAGUIO VILLA BLK 45,碧瑤灣 第45座,Floor:H,2687,98000.0,36.47,1977 (Property age 44 years),2859,TOMMY HUANG,69000559
+104,2021-11-10,Office,Kwun Tong,HOI BUN RD 143,海濱道143號,CHINA AEROSPACE CTR,航天科技中心,Floor:H,10589,169424.0,16.0,1996 (Property age 25 years),2047,寶灃地產-張小姐,57446565
+105,2021-11-11,Village House,Yuen Long,--,--,--,雅裝天台-步行西鐵-即租即住,Floor:H,700,18000.0,25.71,--,2047,KEN CHEUNG,90334909
+106,2021-11-11,Residential,Shatin,TSUEN NAM RD 35,村南道35號,GRANDWAY GDN BLK 03,富嘉花園 第03座,Floor:H Block:E,543,15500.0,28.55,1989 (Property age 32 years),2047,楊先生,96822125
+107,2021-12-06,Residential,Mid-Levels Central,OLD PEAK RD 2,舊山頂道2號,--,--,Floor:H Block:B,1400,73000.0,52.14,1991 (Property age 30 years),2886,Mr Wan,93434678
+108,2021-12-06,Residential,Tai Kok Tsui,FUK LEE ST 8,福利街8號,METRO HARBOUR VIEW PH 01 BLK 02,港灣豪庭 第01期 第02座,Floor:M Block:F,566,16500.0,29.15,2002 (Property age 19 years),2049,Jack Lam,92982228
+109,2021-12-06,Residential,Tseung Kwan O,TONG TAK ST 9,唐德街9號,PARK CENTRAL,將軍澳中心,Floor:M Block:c,nan,16000.0,39.41,--,--,,61234994
+110,2021-12-06,Office,Tsim Sha Tsui,SALISBURY RD 3,梳士巴利道3號,STAR HSE,星光行,,1149,32172.0,28.0,1966 (Property age 55 years),2863,HENRY NG,96099966
+111,2021-12-04,Commercial Shop,Fan Ling,LUEN WO MARKET,聯和墟,--,--,Floor:L,1000,30000.0,30.0,--,--,Anita 蘇小姐,63684355
+112,2021-12-04,Village House,Yuen Long,MAI PO TSUEN,米埔村,--,--,Floor:H,700,13500.0,19.29,--,--,JENNY鍾小姐,92129333
+113,2021-11-23,Residential,Tai Po,CHUI LOK ST 9,翠樂街9號,EVERGREEN COURT BLK 02,翠林閣 第02座,Floor:M,nan,18800.0,30.27,1991 (Property age 30 years),2047,,67606110
+114,2021-11-25,Residential,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,Floor:H,468,12000.0,25.64,1980 (Property age 41 years),2047,鄭小姐,96038831
+115,2021-11-27,Residential,Tin Shui Wai,TIN WU RD 1,天湖路1號,KINGSWOOD,嘉湖山莊景湖居,Floor:M Block:A,815,14500.0,17.79,--,2047,鄔小姐,62535058
+116,2021-11-28,Residential,Tai Kok Tsui,FUK CHAK ST 18-20,福澤街18-20號,UPPER WEST,奧城西岸,Floor:M Block:C,358,14500.0,40.5,2016 (Property age 5 years),2870,SUNNY CHAN,96981338
+117,2021-11-29,Office,Causeway Bay,HYSAN AVE 8,希慎道8號,ETON TWR,裕景商業中心,Floor:L Block:50,110,7500.0,68.18,1977 (Property age 44 years),2842,陳小姐,55957850
+118,2020-04-27,Residential,Ma On Shan,ON SHING ST 18,鞍誠街18號,SUNSHINE CITY,新港城,Floor:H,425,16000.0,37.65,1993 (Property age 28 years),2047,JENNY 陳小姐,90918090
+119,2021-12-06,--,Shatin,--,--,--,大圍市中心唐樓 開陽光猛 可約睇,Floor:M,200,8000.0,40.0,1970 (Property age 51 years),2047,好 運 來 物 業,26812228
+120,2021-02-02,Residential,Tai Po,FO CHUN RD 8,科進路8號,PROVIDENCE PEAK,天賦海灣 盈玥,Floor:M Block:B,1293,34000.0,26.3,2012 (Property age 9 years),2057,烙天置業,26882190
+121,2021-11-26,Residential,Hunghom,LAGUNA VERDE AVE 8,海逸道8號,LAGUNA VERDE,海逸豪園,Floor:M,1179,32800.0,27.82,2001 (Property age 20 years),2047,Sophia黃(日語),98337124
+122,2021-07-09,Village House,Tai Po,TING KOK,汀角,--,三樓連天台天台有玻璃屋,,700,10800.0,15.43,--,2047,李生,98112881
+123,2021-12-06,Residential,Mid-Levels West,SEYMOUR RD 1,西摩道1號,FAIRVIEW HTS,輝煌台,Floor:H Block:A,470,23000.0,48.94,1996 (Property age 25 years),2875,,63789661
+124,2021-12-06,Residential,Tung Chung,KIN TUNG RD 1,健東路1號,CARIBBEAN COAST PH 03 TWR 11,映灣園 第03期 第11座 悅濤軒,Floor:L Block:C,749,15000.0,20.03,2004 (Property age 17 years),2047,MINDA LI,60907292
+125,2021-07-29,Residential,Hunghom,HUNG LAI RD 8,紅荔道8號,ROYAL PENINSULA BLK 01,半島豪庭 第01座,Floor:H Block:C,1319,40000.0,30.33,2000 (Property age 21 years),2047,李生,98332008
+126,2021-12-04,Gov. Housing Scheme,Wong Tai Sin,CHUI CHUK ST 8,翠竹街8號,TSUI CHUK GDN,翠竹花園,Floor:L,480,13000.0,27.08,1989 (Property age 32 years),2047,LINGLAM,54080311
+127,2021-12-06,Village House,Fan Ling,--,粉嶺村屋,--,--,Floor:G,450,8800.0,19.56,--,--,Cammy 伍小姐,52020248
+128,2021-12-05,Residential,Kowloon Bay,MUK TAI ST 11,沐泰街11號,UPPER RIVERBANK,尚珒盈,Floor:M Block:E,nan,27000.0,40.0,2021,2067,HENRY YU,60750108
+129,2021-09-04,Residential,Aberdeen,SHEK PAI WAN RD 48-54,石排灣道48-54號,FULL JADE MAN,富澤大廈(有匙),Floor:H,342,11000.0,32.16,1992 (Property age 29 years),2887,萬邦地產,28700200
+130,2021-09-09,Village House,Sai Kung,--,--,OPEN MOUNTAIN VIEW QUIET ENVIRONMENT,開揚山景 環境清幽,Floor:H,1400,33800.0,24.14,--,--,海騰物業,27028878
+131,2021-10-22,Gov. Housing Scheme,Tai Po,CHUNG NGA RD 8,頌雅路8號,CHUNG NGA COURT,頌雅苑,Floor:M,798,15500.0,19.42,1991 (Property age 30 years),2047,DANNY,60936062
+132,2021-12-06,Residential,Causeway Bay,PATERSON ST 37-47,百德新街37-47號,PATERSON BLDG BLK D,百德大廈 D座,Floor:L Block:5,650,26000.0,40.0,1960 (Property age 61 years),2842,Mr Wan,93434678
+133,2021-12-06,Residential,Shatin,SIU LEK YUEN RD 69,小瀝源路69號,CASTELLO,帝堡城,,718,19500.0,27.16,1999 (Property age 22 years),2047,林生,91012908
+134,2021-12-06,Residential,To Kwa Wan,FARM RD 11,農圃道11號,MAJESTIC PARK BLK 02,帝庭豪園 第02座,Floor:H Block:D,nan,33000.0,44.84,1998 (Property age 23 years),2047,Jack Lam,92982228
+135,2021-11-04,Residential,Mid-Levels Central,CONDUIT RD 22,干德道22號,VANTAGE PARK BLK 02,慧豪閣 第02座,Floor:H Block:D,563,22000.0,39.08,1994 (Property age 27 years),2860,Kelvin Yee,94250663
+136,2021-10-25,Village House,Ma On Shan,--,西沙路三杯酒(近馬鞍山),TSENG TAU VILLAGE,井頭村 95080030,Floor:G,700,17500.0,25.0,--,2047,余小姐,95080030
+137,2021-11-03,Residential,Yau Ma Tei,PARKES ST 91-103,白加士街91-103號,PARKES RESIDENCE,珀軒,Floor:H Block:B,340,13500.0,39.71,2015 (Property age 6 years),2070,SELINA ZHANG,60255728
+138,2021-11-04,Residential,Tai Po,NAM WAN RD 9,南運路9號,UPTOWN PLAZA,新達廣場,Floor:M,743,23000.0,30.96,1991 (Property age 30 years),2047,MR LI,66217527
+139,2021-11-03,Village House,Tai Po,TING KOK RD,汀角路,--,可步行至龍尾灘 中層 可寵物,,700,9800.0,14.0,--,--,至誠地產,26389989
+140,2021-11-04,Residential,Kowloon Tong,NGA TSIN WAI RD 51,衙前圍道51號,BLOOMSVILLE,陶源 ~ 名校網、城市夜景,Floor:M Block:C,1078,38000.0,35.25,2002 (Property age 19 years),2049,友和地產,63008800
+141,2021-12-06,Residential,Ngau Chi Wan,WING TING RD 15,永定道15號,FORTUNE GDN,怡發花園,Floor:H,507,15000.0,29.59,1994 (Property age 27 years),2047,金匯地產 黃小姐,98262292
+142,2021-11-13,Residential,Yuen Long,KO PO SAN TSUEN,高埔新村,--,--,,500,8000.0,16.0,--,--,羅小姐,98383063
+143,2021-12-06,Residential,Tai Po,ON PONG RD 8,安邦路8號,TAI PO CTR,大埔中心,Floor:H Block:E,609,17000.0,27.91,1985 (Property age 36 years),2047,MICHAEL 劉先生,63933766
+144,2021-11-15,Residential,Tai Po,NAM WAN RD 9,南運路9號,UPTOWN PLAZA TWR 03,新達廣場 第03座,Floor:M Block:B,nan,16800.0,34.36,1991 (Property age 30 years),2047,Don Chan,60346138
+145,2021-11-18,Residential,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,,537,13000.0,24.21,1980 (Property age 41 years),2047,鄭小姐,96038831
+146,2021-11-22,Residential,Tai Kok Tsui,FUK CHAK ST 8,福澤街8號,SABLIER,傲寓,Floor:L,nan,15500.0,47.26,2021,2067,CHRIS LING,97123372
+147,2021-03-30,Residential,Tai Po,--,灝景灣,--,--,Floor:H Block:C,nan,22000.0,33.03,--,--,黃金屋物業,26630889
+148,2019-03-01,Industrial,Kwai Chung,"CASTLE PEAK RD 403-413, KWAI CHUNG",青山公路403-413號葵涌段,REASON GROUP TWR,匯城集團大廈,Floor:L Block:PVT,1423,27000.0,18.97,2014 (Property age 7 years),2047,弘基物業,23211929
+149,2021-12-06,Village House,Sai Kung,"SAI SHA RD, SAM PUI CHAU",西沙路三杯酒,KWUN HANG,官坑村 10分鐘可回馬鞍山 週邊發展潛力大,,700,16000.0,22.86,--,--,迪迪置業,28181119
+150,2021-12-05,Residential,Mid-Levels Central,GARDEN RD 55,花園道55號,ESTORIL COURT BLK 03,愛都大廈 第03座,Floor:H Block:E,3300,168000.0,50.91,1983 (Property age 38 years),2896,SEAN KWONG,61285077
+151,2021-07-22,Gov. Housing Scheme,Ma On Shan,KAM YING RD 6,錦英路6號,SADDLE RIDGE GDN BLK 07 (PSPS),富寶花園***居二*海景,Floor:H,503,360.0,0.72,1993 (Property age 28 years),2047,劉小姐,26312923
+152,2021-12-06,Residential,Wan Chai,GLOUCESTER RD 212,告士打道212號,THE GLOUCESTER,尚匯,Floor:H Block:A,966,38000.0,39.34,2012 (Property age 9 years),2125,Mr Wan,93434678
+153,2021-09-04,Residential,Ho Man Tin,CHUNG HAU ST 83,忠孝街83號,DRAGON VIEW,御龍居,,896,28000.0,31.25,1998 (Property age 23 years),2047,譚先生,61376677
+154,2021-09-07,Residential,Aberdeen,ABERDEEN MAIN RD 171,香港仔大道171號,KAM FUNG BLDG,金豐大廈(南海有匙),Floor:H,562,16000.0,28.47,1986 (Property age 35 years),2059,萬邦地產,28700200
+155,2021-12-06,Residential,Mong Kok,FA YUEN ST 1,花園街1號,HUNG HAY BLDG,鴻禧大廈,Floor:H,nan,15000.0,47.17,1984 (Property age 37 years),2057,,93410687
+156,2021-09-28,Residential,Tuen Mun,"CASTLE PEAK RD 1, CASTLE PEAK BAY",青山公路1號青山灣段,HONG KONG GOLD COAST,香港黃金海岸,Floor:H Block:F,888,17000.0,19.14,1990 (Property age 31 years),2047,世紀21-劉生,54445810
+157,2021-12-06,Residential,Sai Ying Pun,POK FU LAM RD 63,薄扶林道63號,Amber House,--,Floor:M Block:D,nan,22000.0,80.29,2020 (Property age 1 years),2861,,63789661
+158,2021-12-06,Residential,Mong Kok,KWONG WA ST 3,廣華街3號,PARADISE SQUARE,百利達廣場,Floor:H Block:G,612,17800.0,29.08,2003 (Property age 18 years),2054,KAMMY LAU,93130476
+159,2021-10-17,Residential,Mong Kok,WATERLOO RD 45,窩打老道45號,NELSON COURT,賀賢居,Floor:M Block:C,718,23800.0,33.15,2001 (Property age 20 years),1999,柏聯物業ming,90138585
+160,2021-10-30,Residential,To Kwa Wan,KOWLOON CITY RD 141,九龍城道141號,SUN SHING CTR BLK 03,新城中心 第03座,Floor:L,nan,13000.0,,1987 (Property age 34 years),2101,,60853766
+161,2021-11-05,Residential,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,,537,12500.0,23.28,1980 (Property age 41 years),2047,鄭小姐,96038831
+162,2021-11-06,Residential,Tsuen Wan,"CASTLE PEAK RD 33, SHAM TSENG",青山公路33號深井段,BELLAGIO,碧堤半島,,1201,26000.0,21.65,2005 (Property age 16 years),2051,晉誠地產 陳先生,64459877
+163,2021-11-06,Residential,Kowloon Tong,BEACON HILL RD 67,筆架山道67號,BEVERLEY HTS,碧華閣,Floor:H Block:A3,1300,36000.0,27.69,1970 (Property age 51 years),2047,友和地產WENDY,53738333
+164,2021-11-07,Village House,Sai Kung,1/F with Peaceful Sea View Balcony,筍盤推介*1/F 連海景露台*位處海岸,--,--,,700,13000.0,18.57,--,2047,屈生Micken Watt,91232089
+165,2021-12-06,Car Park,San Po Kong,CHOI HUNG RD 242,彩虹道242號,RHYTHM GDN,采頤花園,,nan,3200.0,,2000 (Property age 21 years),2048,金匯地產-衛小姐,93100131
+166,2021-12-06,Residential,Shatin,CHE KUNG MIU RD 8,車公廟路8號,THE RIVERPARK,溱岸8號,,nan,29800.0,41.5,2012 (Property age 9 years),2058,,54906226
+167,2021-11-19,Village House,Tsing Yi,TSING YI VILLAGE,青衣村屋,--,--,,700,17500.0,25.0,--,2047,永誠置業,51116865
+168,2021-11-27,Residential,Mid-Levels West,PARK RD 6,柏道6號,EUSTON COURT BLK 02,豫苑 第02座,Floor:L Block:D,930,32000.0,34.41,1989 (Property age 32 years),2858,AIMEE HUNG,62378989
+169,2021-11-29,Office,Causeway Bay,HYSAN AVE 8,希慎道8號,ETON TWR,裕景商業中心,Floor:L Block:48,110,7200.0,65.45,1977 (Property age 44 years),2842,陳小姐,55957850
+170,2019-01-17,Commercial Shop,Tsuen Wan,TEXACO RD 62-70,德士古道62-70號,PO YIP BLDG,寶業大廈,Floor:G Block:BSZ,1700,45000.0,26.47,1981 (Property age 40 years),2047,弘基物業,23211929
+171,2020-08-08,Residential,Tai Po,SAM MUN TSAI RD 23,三門仔路23號,BEVERLY HILLS,比華利山別墅,,3176,54800.0,17.25,2002 (Property age 19 years),2047,烙天置業,26882190
+172,2021-12-06,Residential,Mid-Levels Central,ROBINSON RD 22,羅便臣道22號,FLORAL TWR,福熙苑,Floor:H Block:C,436,22000.0,50.46,1992 (Property age 29 years),2848,,63789661
+173,2021-12-06,Residential,Sham Shui Po,HAI TAN ST 203,海壇街203號,SEASIDE SONATA TWR 02,愛海頌 第02座,Floor:M Block:D,998,26800.0,26.85,2021,2065,Jack Lam,92982228
+174,2021-12-06,Residential,Shatin,TAI CHUNG KIU RD 52,大涌橋路52號,BELAIR GDNS NELLY HTS,富豪花園 麗人閣,Floor:M Block:H,808,20000.0,24.75,1987 (Property age 34 years),2047,趙文浩先生,92862047
+175,2021-08-27,Residential,Tsim Sha Tsui,AUSTIN RD W 1,柯士甸道西1號,SORRENTO PH 01 TWR 05,擎天半島 第01期 第05座,Floor:H Block:F,1131,38000.0,33.6,2002 (Property age 19 years),2047,SELINA ZHANG,60255728
+176,2021-09-20,Gov. Housing Scheme,Wang Tau Hom,CHUK YUEN RD 51,竹園道51號,TIN WANG COURT,天宏苑,Floor:H,521,12500.0,23.99,1992 (Property age 29 years),2047,殷生E-225555,66014498
+177,2021-12-06,Residential,Aberdeen,ABERDEEN MAIN RD 225,香港仔大道225號,ABBA HSE BLK A,福群大廈 A座,Floor:H,391,13000.0,33.25,1983 (Property age 38 years),2055,萬邦地產,28700200
+178,2021-10-24,Village House,Sai Kung,Convenient G/F with Open Kitchen,方便近市*地下連開放式廚房,--,--,Floor:G,350,8200.0,23.43,--,--,屈生Micken Watt,91232089
+179,2021-12-06,Residential,Tai Kok Tsui,KA SHIN ST 9-9A,嘉善街9-9號A,--,--,Floor:L,nan,8500.0,17.14,--,--,廣信地產,27716516
+180,2021-11-06,Residential,Tsuen Wan,"CASTLE PEAK RD 33, SHAM TSENG",青山公路33號深井段,BELLAGIO,碧堤半島,,703,16500.0,23.47,2002 (Property age 19 years),2051,晉誠地產 陳先生,64459877
+181,2021-11-14,Residential,Tai Kok Tsui,TAI TSUN ST 72-74,大全街72-74號,COSMOPOLITAN EST BLK Q TAI WAH BLDG,大同新村 大華樓 Q座,Floor:M Block:6,nan,12000.0,46.15,1975 (Property age 46 years),2870,Andy Wan,98892869
+182,2021-12-06,Residential,Aberdeen,AP LEI CHAU DRIVE 3,鴨利洲徑3號,SHAM WAN TWRS 03,深灣軒 第03座,Floor:H Block:C,670,22000.0,32.84,2004 (Property age 17 years),2050,Mr Wan,93434678
+183,2021-12-06,Residential,Mid-Levels West,LYTTELTON RD 17-29,列堤頓道17-29號,LYTTELTON GDN BLK 02,俊賢花園 第02座,Floor:L Block:B,1135,45000.0,39.65,1993 (Property age 28 years),2861,Kelvin Yee,94250663
+184,2021-11-19,Residential,Tai Po,HIU WAN RD 8,曉運道8號,KING NGA COURT BLK A KING YAN HSE (HOS),景雅苑 A座 景欣閣,Floor:H Block:03,nan,14000.0,34.91,1992 (Property age 29 years),2047,Don Chan,60346138
+185,2021-11-27,Residential,Yuen Long,KAM TIN,錦田,--,--,,780,12500.0,16.03,--,--,羅小姐,98383063
+186,2021-11-29,Village House,Tai Po,LO TSZ TIN,蘆慈田,--,＊＊上複式，背山靠海，近泳灘＊＊,Floor:H,1400,22800.0,16.29,2006 (Property age 15 years),--,李生,98112881
+187,2021-11-29,Village House,Fan Ling,LEI UK,李屋,--,--,,180,6000.0,33.33,--,--,偉天物業,36860927
+188,2021-11-30,Residential,Kowloon Tong,CORNWALL ST 20,歌和老街20號,MOUNT BEACON TWR 06,畢架山峰 第06座 ~ 罕有4房 + 工人房,Floor:H Block:A,1538,55000.0,35.76,2006 (Property age 15 years),2052,友和地產,63008800
+189,2021-12-06,Residential,Sham Shui Po,HAI TAN ST 203,海壇街203號,SEASIDE SONATA TWR 02,愛海頌 第02座,Floor:M Block:D,998,26800.0,26.85,2021,2065,KAMMY LAU,93130476
+190,2020-08-12,Residential,Tai Po,FO CHUN RD 21,科進路21號,MAYFAIR BY THE SEA II,逸瓏灣 II,Floor:M,nan,45000.0,42.78,2015 (Property age 6 years),2059,烙天置業,26882190
+191,2021-04-12,Residential,Kwai Chung,KWOK SHUI RD 168,國瑞路168號,PRIMROSE HILL TWR 03,縉庭山 第03座,Floor:H,1205,35000.0,29.05,2010 (Property age 11 years),2055,永誠置業,51116865
+192,2021-12-03,Village House,Sai Kung,SAI KUNG,西貢海景村屋***歐生90180344***,--,--,Floor:All,2100,55000.0,26.19,--,--,歐生,90180344
+193,2021-06-19,Residential,Tai Po,CHONG SAN RD 18,創新路18號,CENTRA HORIZON TWR 10,海日灣 第02期 第10座,Floor:H Block:D,nan,17000.0,42.71,2020 (Property age 1 years),2066,友和地產-范小姐,52163198
+194,2021-06-22,Residential,Yuen Long,TAI TONG RD 101,大棠路101號,--,名御,,2822,45000.0,15.95,--,--,羅小姐,98383063
+195,2021-07-15,Village House,Yuen Long,--,樓盤編號 :006345 刊登日期 09-11-2021,--,寵物盤！新淨６００呎地下兩房,Floor:L,600,9800.0,16.33,--,--,Nico Tsang 曾生,61606899
+196,2021-12-06,Residential,Mong Kok,FA YUEN ST 142-148,花園街142-148號,LUEN ON BLDG,聯安大廈,Floor:M,nan,14000.0,32.41,1970 (Property age 51 years),2081,,93410687
+197,2021-09-15,Residential,Ho Man Tin,CHUNG HAU ST 83,忠孝街83號,DRAGON VIEW,御龍居,,995,33000.0,33.17,1998 (Property age 23 years),2047,譚先生,61376677
+198,2021-10-03,Village House,Yuen Long,--,--,--,全新靚裝別墅,Floor:H,300,7900.0,26.33,--,--,尊上物業,24889903
+199,2021-10-28,Residential,Ho Man Tin,WATERLOO RD 68,窩打老道68號,LUNG CHEUNG BLDG,龍翔大廈,Floor:M Block:C,nan,25000.0,34.97,1965 (Property age 56 years),2004,柏聯物業ming,90138585
+200,2021-11-19,Residential,Tsim Sha Tsui,CANTON RD 533-541,廣東道533-541號,LODGE,都會名軒,Floor:M Block:A,nan,12500.0,,--,2049,WAI WAI,67549249
+201,2021-10-25,Industrial,Kwai Chung,WAH SING ST 8-10,華星街8-10號,WAH TAT IND CTR BLK A,華達工業中心 A座,Floor:H Block:16,1818,25000.0,13.75,1985 (Property age 36 years),2047,世紀21專尚物業,65475203
+202,2021-10-27,Industrial,Tsuen Wan,HOI SHING RD 11,海盛路11號,ONE MIDTOWN,--,Floor:H Block:BL,418,8500.0,20.33,2012 (Property age 9 years),--,弘基物業,23211929
+203,2021-12-03,Residential,Tuen Mun,KWUN CHUI RD 8,管翠路8號,EMERALD BAY,恆大珺瓏灣,,nan,13000.0,34.95,2021,2065,世紀21-李生,54094500
+204,2021-11-06,Residential,Tuen Mun,TSING YAN ST 8,青茵街8號,AQUAMARINE GDN,海慧花園,,1298,24800.0,19.11,1994 (Property age 27 years),2047,晉誠地產 陳先生,64459877
+205,2021-11-06,Residential,Tin Shui Wai,WETLAND PARK RD 9,濕地公園路9號,WETLAND SEASONS PARK TWR 11,--,Floor:M Block:A2,nan,15000.0,32.61,2021,2064,千友地產 翁生,94293539
+206,2021-12-06,Residential,Shatin,SHATIN CTR ST 11-17,沙田正街11-17號,WAI WAH CTR,偉華中心,Floor:H,nan,14000.0,,1986 (Property age 35 years),2047,JACKYLUI,66779562
+207,2021-11-14,Residential,Tai Po,MUI SHU HANG RD 3,梅樹坑路3號,PARC VERSAILLES BLK 31,帝欣苑 第31座,Floor:L Block:A,1038,27500.0,26.49,1996 (Property age 25 years),2047,李小姐,94517360
+208,2021-11-16,Residential,Tuen Mun,SO KWUN WAT RD 99,掃管笏路99號,LE PONT,上源,,nan,1.0,0.0,2020 (Property age 1 years),2065,世紀21-黃小姐,97756186
+209,2021-11-25,Residential,Hunghom,SHUNG KING ST 9,船景街9號,WHAMPOA GDN,黃埔花園,Floor:L,469,16800.0,35.82,1986 (Property age 35 years),2059,Ms:Elsa 曲小姐,92371778
+210,2021-11-25,Residential,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,Floor:H,626,15500.0,24.76,1980 (Property age 41 years),2047,鄭小姐,96038831
+211,2021-11-26,Village House,Sai Kung,Sai Kung Quiet Mid-Level*1/F Balcony,半山近市*1/F 連露台*開揚清靜,--,--,,700,12000.0,17.14,--,2047,屈生Micken Watt,91232089
+212,2021-12-06,Residential,Repulse Bay,BELLEVIEW DRIVE 26,麗景道26號,REPULSE BAY GDN BLK 08,麗景園 第08座,Floor:H,2288,85000.0,37.15,1973 (Property age 48 years),2037,SEAN KWONG,61285077
+213,2021-11-29,Village House,Yuen Long,SIK KONG TSUEN,錫降村,--,--,,400,7000.0,17.5,--,--,偉天物業,36860927
+214,2021-11-29,Residential,Tai Kok Tsui,PINE ST 4-16,杉樹街4-16號,KAMGA MAN,金基大廈,Floor:L,nan,24800.0,55.48,1979 (Property age 42 years),2049,廣信地產,27716516
+215,2021-11-30,Residential,Tai Po,ON CHEE RD 3,安慈路3號,JADE PLAZA,翠屏花園,Floor:H,362,9900.0,27.35,1986 (Property age 35 years),2047,聶小姐,92006278
+216,2015-05-30,Residential,Sai Kung,SILVER CAPE RD,銀岬路,AEGEAN VILLA,愛琴居,,2291,78000.0,34.05,1995 (Property age 26 years),2047,本鴻地產,27921618
+217,2019-02-07,Industrial,Kwai Chung,LEI MUK RD 4-30,梨木道4-30號,EDWICK IND CTR,億萬工業中心,Floor:M Block:BSZX,5000,45000.0,9.0,1979 (Property age 42 years),2047,弘基物業,23211929
+218,2019-09-24,Residential,Kowloon Tong,BOUNDARY ST 167-169,界限街167-169號,UNIVERSITY COURT,翰林苑,,1466,40000.0,27.29,2001 (Property age 20 years),2047,友和地產,91902270
+219,2021-07-15,Residential,Mid-Levels Central,CONDUIT RD 22,干德道22號,VANTAGE PARK BLK 02,慧豪閣 第02座,Floor:H Block:C,591,26000.0,43.99,1994 (Property age 27 years),2860,Daniel Yee,92318879
+220,2021-11-26,Residential,Hunghom,LAGUNA VERDE AVE 8,海逸道8號,LAGUNA VERDE,海逸豪園,Floor:M,1179,32800.0,27.82,2001 (Property age 20 years),2047,Ms:Elsa 曲小姐,92371778
+221,2021-12-04,Residential,Mid-Levels West,PARK RD 6,柏道6號,EUSTON COURT BLK 01,豫苑 第01座,Floor:H Block:A,930,37000.0,39.78,1989 (Property age 32 years),2858,SAM TONG,93017968
+222,2021-09-16,Residential,Yuen Long,NAM HANG TSUEN,元朗大棠道南坑村,--,--,Floor:L,600,9800.0,16.33,--,--,嘉朗地產,24851828
+223,2021-09-21,Commercial Shop,Siu Sai Wan,SIU SAI WAN RD 18,小西灣道18號,FULLVIEW GDN COM CTR,富景花園 商場,,183,18000.0,98.36,1993 (Property age 28 years),2047,李,66129498
+224,2021-09-21,Village House,Tai Po,--,--,--,可步行至東鐵站 地下 可寵物,,230,7500.0,32.61,--,2047,至誠地產,26389989
+225,2021-09-24,Village House,Tai Po,TING KOK RD,汀角路,--,"樓新, 內外時尚設計, 地下連車位",Floor:G,700,12000.0,17.14,--,--,李生,98112881
+226,2021-10-27,Residential,Tsim Sha Tsui,AUSTIN RD W 1,柯士甸道西1號,ARCH TWR 02,凱旋門 第02座 觀星閣,Floor:M Block:C,565,28000.0,49.56,2005 (Property age 16 years),2047,WAI WAI,67549249
+227,2021-11-12,Village House,Ma On Shan,--,西沙路十四鄉,NGA YIU TAU TSUEN,瓦瑤頭村 95080030,Floor:All,2100,48000.0,22.86,--,--,余小姐,95080030
+228,2021-11-09,Residential,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,,626,15000.0,23.96,1980 (Property age 41 years),2047,鄭小姐,96038831
+229,2021-11-11,Residential,Ho Man Tin,SHEUNG SHING ST 28,常盛街28號,MANTIN HTS TWR 07,皓畋 第07座,Floor:M Block:E,nan,24300.0,46.02,2017 (Property age 4 years),2063,柏聯物業ming,90138585
+230,2021-12-04,Residential,Yau Tong,LAGUNA ST 17,麗港街17號,LAGUNA CITY PH 04 LAGUNA COVE BLK 12,麗港城 第04期 灣畔居 第12座,Floor:L,939,22000.0,23.43,1994 (Property age 27 years),2047,Tammy Yip,90991291
+231,2021-11-21,Residential,Hunghom,KO SHAN RD 9,高山道9號,HANG SHAN COURT,恒山閣,Floor:M,nan,12800.0,36.89,1978 (Property age 43 years),2127,,90294900
+232,2021-11-23,Village House,Tsing Yi,TSING YI VILLAGE,青衣村屋,--,--,,350,10500.0,30.0,--,2047,永誠置業,93261171
+233,2021-11-26,Residential,Ngau Chi Wan,FUNG SHING ST 63,豐盛街63號,SCENIC VIEW BLK 03,曉暉花園 第03座,Floor:H Block:D,922,25000.0,27.11,1999 (Property age 22 years),2047,金匯地產-衛小姐,93100131
+234,2020-08-14,Residential,Tai Po,MUI SHU HANG RD 3,梅樹坑路3號,PARC VERSAILLES,帝欣苑,Floor:L,1038,28000.0,26.97,1996 (Property age 25 years),2047,烙天置業,26882190
+235,2021-12-06,--,Tai Kok Tsui,FUK LEE ST 8,福利街8號,METRO HARBOUR VIEW PH 01 BLK 06,港灣豪庭 第01期 第06座,Floor:H Block:H,477,14800.0,31.03,2002 (Property age 19 years),2049,Jack Lam,92982228
+236,2019-01-13,Gov. Housing Scheme,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,Floor:H Block:12,520,11000.0,21.15,1978 (Property age 43 years),2047,鴻雋地產,31604188
+237,2021-12-06,Residential,Hunghom,HUNG LAI RD 8,半島豪庭 紅荔道8號,ROYAL PENINSULA BLK 04,*至平二房* 半島豪庭 第04座,Floor:L Block:D,735,22000.0,29.93,2000 (Property age 21 years),2047,DICKY 迎富地產,61728882
+238,2021-07-26,Office,San Po Kong,SAM CHUK ST 12-14,三祝街12-14號,WING SUM 2ND IND BLDG,榮森工業第二大廈,Floor:H Block:4,198,4800.0,24.24,1971 (Property age 50 years),2083,千友地產 彭生,63085375
+239,2021-08-07,Residential,Shatin,YUEN CHAU KOK RD 15-17,圓洲角路15-17號,GREEN LEAVES GDN,翠麗花園,Floor:H Block:5,384,12500.0,32.55,1987 (Property age 34 years),2047,嘉威物業 徐小姐,26469680
+240,2021-10-03,Residential,Ngau Chi Wan,FUNG SHING ST 51,豐盛街51號,ARIA,峻弦,Floor:M,533,17500.0,32.83,--,2055,金匯地產-陳小姐,93015580
+241,2021-10-07,Village House,Ma On Shan,--,西沙路,SAI O,西澳村 95080030,,700,15500.0,22.14,--,2047,余小姐,95080030
+242,2021-12-05,Village House,Ma On Shan,WU KAI SHA TSUEN,烏溪沙村,KAI SHA TSUEN,烏溪沙村 村口 單邊靚裝開楊可泊車,Floor:H,700,14300.0,20.43,--,--,劉小姐,26312923
+243,2021-10-29,Residential,Shatin,CHE KUNG MIU RD 8,車公廟路8號,THE RIVERPARK TWR 02,溱岸8號 第02座,Floor:H Block:B,1224,41000.0,33.5,2013 (Property age 8 years),2058,名城地產代理,91944220
+244,2021-11-02,Residential,Kowloon City,TAK KU LING RD 68-74,打鼓嶺道68-74號,TUNG FUNG HSE,同豐樓 - 41校網 企理2房,Floor:L Block:70-FP,nan,14000.0,34.48,1968 (Property age 53 years),2047,友和地產-楊小姐,98107377
+245,2021-11-02,Village House,Fan Ling,--,元朗八鄉,--,--,,700,12000.0,17.14,--,--,劉小姐,56659989
+246,2021-11-05,Village House,Sai Kung,Open Sea View*2/F with Rooftop,開揚海景*2/F連天台*清靜社區,--,--,,700,16000.0,22.86,--,2047,屈生Micken Watt,91232089
+247,2021-11-08,Industrial,Tsuen Wan,WANG LUNG ST 17-23,æ©«é¾è¡17-23è,MING WAH IND BLDG,æè¯å·¥æ¥­å¤§å»,Floor:L Block:¥þ¼h,28690,280000.0,9.76,1976 (Property age 45 years),2047,弘基物業,23211929
+248,2021-11-12,Village House,Sai Kung,--,西貢村屋,--,--,Floor:M,700,16000.0,22.86,1997 (Property age 24 years),2047,謝生,62888644
+249,2021-11-15,Residential,Sham Shui Po,SHAM MONG RD 28,深旺道28號,CULLINAN WEST III,匯璽 III,Floor:L,nan,24000.0,,2019 (Property age 2 years),2062,金匯地產-衛小姐,93100131
+250,2019-05-28,Village House,Sai Kung,CLEAR WATER BAY,清水灣,PAN LONG WAN,檳榔灣,,2100,68000.0,32.38,--,2047,本鴻地產,27921618
+251,2020-08-11,Residential,Tai Po,TAI PO RD,大埔公路,HONG LOK YUEN,康樂園,,1850,37000.0,20.0,1989 (Property age 32 years),2047,烙天置業,26882190
+252,2021-12-03,Office,Causeway Bay,HYSAN AVE 8,希慎道8號,ETON TWR,裕景商業中心,Floor:L Block:122,96,5600.0,58.33,1977 (Property age 44 years),2842,陳小姐,55957850
+253,2021-04-30,Residential,Hunghom,WAN HOI ST 11,環海街11號,HARBOURFRONT LANDMARK TWR 02,海名軒 第02座,Floor:H Block:A,2139,65000.0,30.39,2001 (Property age 20 years),2047,ANSON CHAN,61800182
+254,2021-05-13,Village House,Yuen Long,KAM TIN,錦田,--,--,Floor:H,1480,19000.0,12.84,--,--,富雅地產-羅小姐,98383063
+255,2021-12-05,Residential,Mid-Levels West,SEYMOUR RD 1,西摩道1號,FAIRVIEW HTS,輝煌台,Floor:H Block:B,681,27000.0,39.65,1996 (Property age 25 years),2884,Kelvin Yee,94250663
+256,2021-06-12,Village House,Tai Po,TUNG TSZ SHAN RD,洞梓山莊,--,寧靜開揚車位充足中層,,700,10000.0,14.29,--,2047,李生,98112881
+257,2021-07-13,Residential,Tin Shui Wai,TIN KWAI RD 33,天葵路33號,VIANNI COVE TWR 01,慧景軒 第01座,Floor:H Block:E,902,17000.0,18.85,2004 (Property age 17 years),2049,千友地產 彭生,63085375
+258,2021-08-02,Commercial Shop,Ma On Shan,HANG SHUN ST,恒信街,CHEVALIER GDN COM COMPLEX,富安花園商場,Floor:G,217,8500.0,39.17,1987 (Property age 34 years),2047,生威物業,26310828
+259,2021-12-04,Residential,Tuen Mun,HO HING CIRCUIT 2-11,河興街2-11號,TAI HING GDNS PH 02,大興花園 第02期,,nan,16000.0,,1994 (Property age 27 years),2047,尊上物業,24889903
+260,2021-07-15,Village House,Yuen Long,--,樓盤編號 :052175 刊登日期 15-07-2021,--,良心價 錦上路 新裝 筍租！,Floor:M,700,10800.0,15.43,--,--,Nico Tsang 曾生,61606899
+261,2021-08-07,Residential,Shatin,TAI CHUNG KIU RD 12,大涌橋路12號,YUE SHING COURT BLK B SHING WING HSE (HO,愉城苑 B座 城榮閣,,674,17800.0,26.41,1980 (Property age 41 years),2047,嘉威物業,26469680
+262,2021-08-13,Residential,Shatin,SUI WO RD 16,穗禾路16號,SHATIN 33,碧霞花園,,1900,45000.0,23.68,1983 (Property age 38 years),2047,鄭小姐,96038831
+263,2021-12-03,Residential,Yuen Long,DEEP BAY RD 233,深灣路233號,DEEP BAY GROVE,深灣畔,Floor:L,542,13500.0,24.91,2005 (Property age 16 years),2049,偉天物業,36860927
+264,2021-09-25,Residential,Hunghom,TAK HONG ST 6,德康街6號,WHAMPOA GDN SITE 11 BLK 08,黃埔花園 第11期 第08座,Floor:H Block:F,597,20000.0,33.5,1989 (Property age 32 years),2059,太陽物業GARY LE,91269811
+265,2021-10-18,Residential,Ho Man Tin,WATERLOO RD 112,窩打老道112號,BELAIRE HTS,碧儷閣,Floor:L Block:A,nan,30000.0,25.34,1974 (Property age 47 years),--,柏聯物業ming,90138585
+266,2021-12-06,Village House,Sai Kung,"SAI SHA RD, TAI MONG TSAI",西沙路大網仔,WONG CHUK WAN TSUEN,黃竹灣村 新樓落成 背山面海 環境優美,,700,24000.0,34.29,--,--,迪迪置業,28181119
+267,2021-11-25,Residential,Hunghom,SHUNG KING ST 9,船景街9號,WHAMPOA GDN,黃埔花園,Floor:L,469,16800.0,35.82,1986 (Property age 35 years),2059,Sophia黃(日語),98337124
+268,2021-11-17,Industrial,Tsuen Wan,LUNG TAK ST 11,龍德街11號,WANG LUNG IND BLDG,宏龍工業大廈,Floor:M Block:R,320,6000.0,18.75,1989 (Property age 32 years),2047,弘基物業,23211929
+269,2021-11-19,Residential,Tai Po,TUNG MAU SQUARE 5-7,同茂坊5-7號,--,--,,nan,6800.0,45.33,1966 (Property age 55 years),2047,Don Chan,60346138
+270,2021-11-22,Residential,Kwai Chung,KWOK SHUI RD 168,國瑞路168號,PRIMROSE HILL,縉庭山,Floor:H,926,21000.0,22.68,2010 (Property age 11 years),2055,黃金屋物業 戴生,90110383
+271,2021-12-03,Village House,Ma On Shan,TAI SHUI HANG,大水坑,--,--,Floor:L,350,9500.0,27.14,--,--,富安地產,26300138
+272,2021-11-26,Car Park,Ngau Chi Wan,KING TUNG ST 8,瓊東街8號,KINGSFORD TERR,嘉峰台,,nan,3800.0,,2003 (Property age 18 years),2047,金匯地產-衛小姐,93100131
+273,2021-11-28,--,Tai Po,TSING YUEN ST,靖遠街,--,大埔唐樓單人房 新淨,,nan,3600.0,10.81,1972 (Property age 49 years),2047,至誠地產,26389989
+274,2012-08-29,Commercial Shop,Causeway Bay,LOCKHART RD 474-476,駱克道474-476號,HOP YEE BLDG,合宜大廈,Floor:L Block:474,428,93000.0,217.29,1967 (Property age 54 years),--,英皇集團,28356511
+275,2020-08-12,Residential,Tai Po,TAI PO RD,大埔公路,HONG LOK YUEN,康樂園,,2150,52000.0,24.19,1988 (Property age 33 years),2047,烙天置業,26882190
+276,2020-09-07,Residential,Mid-Levels West,CAINE RD 136-138,堅道136-138號,JADESTONE COURT,寶玉閣,Floor:H Block:D,450,18000.0,40.0,1991 (Property age 30 years),2856,Kelvin Yee,94250663
+277,2021-12-06,Residential,To Kwa Wan,FARM RD 11,農圃道11號,MAJESTIC PARK BLK 02,帝庭豪園 第02座,Floor:H Block:D,nan,29800.0,40.49,1998 (Property age 23 years),2047,KAMMY LAU,93130476
+278,2021-12-06,Industrial,Tsuen Wan,SHA TSUI RD 381-389,沙咀道381-389號,YOUNG YA IND BLDG,榮亞工業大廈 [ 地廠 ],Floor:L Block:A1,970,30000.0,30.93,1979 (Property age 42 years),2047,世紀21專尚物業,96660587
+279,2021-06-23,Residential,Tsim Sha Tsui,CANTON RD 188,廣東道188號,VICTORIA TWRS 02,港景峰 第02座,Floor:H Block:A,1258,48000.0,38.16,2002 (Property age 19 years),2048,JULIA,90456283
+280,2021-08-05,Residential,Shatin,SUI WO RD 16,穗禾路16號,SHATIN 33 BLK 02 (PHOENIX HTS),碧霞花園 第02座 鳳凰閣,,1900,45000.0,23.68,1984 (Property age 37 years),2047,鄭小姐,96038831
+281,2021-12-06,Residential,Tai Po,TAI WO RD 12,太和路12號,TAI WO ESTATE,太和村,Floor:H,nan,8000.0,66.12,--,2047,聶小姐,92006278
+282,2021-08-09,Residential,Tuen Mun,TSING YUNG ST 8,青榕街8號,TSING YUNG TERR,青榕台 全海景 連車位,Floor:H,1246,21000.0,16.85,1989 (Property age 32 years),2047,世紀21-鄭生,64643762
+283,2021-12-06,Village House,Sai Kung,CLEAR WATER BAY RD,清水灣道,TSENG LAN SHUE TSUEN,井欄樹村 2年新樓 去彩虹15分鐘車程,,320,9500.0,29.69,--,--,迪迪置業,28181119
+284,2021-12-06,Residential,Hunghom,HUNG LAI RD 8,半島豪庭紅荔道8號,ROYAL PENINSULA BLK 01,*即睇海景* 半島豪庭 第01座,Floor:H Block:C,1319,40000.0,30.33,2000 (Property age 21 years),2047,DICKY 迎富地產,61728882
+285,2021-09-11,Residential,Tsuen Wan,"CASTLE PEAK RD 100, TSING LUNG TAU",青山公路100號青龍頭段,HONGKONG GDN BLK 09 ESTORIL HTS,豪景花園,,768,12500.0,16.28,1987 (Property age 34 years),2047,晉誠地產 黎先生,90277608
+286,2021-12-05,Residential,Tuen Mun,KWUN CHUI RD 8,管翠路8號,EMERALD BAY,恆大珺瓏灣,Floor:H,nan,7500.0,33.63,2021,2065,世紀21-李生,54094500
+287,2021-12-06,Office,Mong Kok,KWONG WA ST 42-56,廣華街42-56號,WEALTH COM CTR,廣發商業中心,Floor:M,292,10000.0,34.25,1993 (Property age 28 years),2073,廣信地產,27716516
+288,2021-10-14,Residential,Wong Tai Sin,WAN FUNG ST 68,環鳳街68號,ASPEN CREST,鑽嶺,Floor:H,nan,15500.0,45.86,2018 (Property age 3 years),2047,殷生E-225555,66014498
+289,2021-10-17,Residential,Ho Man Tin,KING TAK ST 4,敬德街4號,KING TAK TERR,敬德台,Floor:M Block:A,1100,32000.0,29.09,1970 (Property age 51 years),2043,柏聯物業ming,90138585
+290,2021-10-18,Residential,Tai Po,ON TAI RD 1,安泰路1號,TAI PO PLAZA,大埔廣場,Floor:H,555,16000.0,28.83,1984 (Property age 37 years),2047,MR LI,66217527
+291,2021-10-20,Industrial,Kwai Chung,WAH SING ST 16-18,華星街16-18號,BOLD WIN IND BLDG,保盈工業大廈,Floor:H Block:BL,580,7200.0,12.41,1977 (Property age 44 years),2047,弘基物業,23211929
+292,2021-10-31,Residential,To Kwa Wan,PAK TAI ST 60-62,北帝街60-62號,TUNG PO BLDG,東寶大樓,,nan,12500.0,37.09,1989 (Property age 32 years),2103,,90294900
+293,2021-11-02,Residential,Kowloon Tong,BROADCAST DRIVE 25,廣播道25號,LUNG CHEUNG COURT BLK 05,龍翔苑 第05座 - 41校網 巨廳巨房,Floor:L Block:4A,1450,50000.0,34.48,--,--,友和地產-楊小姐,98107377
+294,2021-11-05,Residential,Tsim Sha Tsui,AUSTIN RD W 1,柯士甸道西1號,ARCH TWR 02,凱旋門 第02座 觀星閣,Floor:H Block:G,556,23000.0,41.37,2005 (Property age 16 years),2047,WAI WAI,67549249
+295,2021-11-16,Residential,Shatin,SUI WO RD,穗禾路,SUI WO COURT,穗禾苑,,537,12500.0,23.28,1980 (Property age 41 years),2047,鄭小姐,96038831
+296,2021-12-02,Land / Warehouse,Yuen Long,FUNG KA WAI,馮家圍,--,--,Floor:G,39980,85000.0,2.13,--,--,偉天物業,36860927
+297,2021-11-19,Residential,Tai Po,HIU WAN RD 8,曉運道8號,--,德雅苑,Floor:M Block:20,nan,15000.0,33.33,--,2047,Don Chan,60346138
+298,2021-12-04,Village House,Yuen Long,--,--,--,荀租 錦上路連車位,Floor:H,700,17999.0,25.71,--,--,尊上物業,24889903
+299,2020-12-04,Residential,Kowloon Tong,BEACON HILL RD 1,筆架山道1號,ONE BEACON HILL,畢架山一號,,1473,52000.0,35.3,2004 (Property age 17 years),2047,友和地產,91902270
