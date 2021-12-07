@@ -7,8 +7,11 @@ st.title("HK Properties")
 
 df = pd.read_csv('./rental.csv', index_col=0)
 
-district = st.sidebar.selectbox("District", df['District'].unique())
-usage = st.sidebar.selectbox("Usage", df['Usage'].unique())
+district_list = np.append(df['District'].unique(), 'Show All')
+usage_list = np.append(df['Usage'].unique(), 'Show All')
+
+district = st.sidebar.selectbox("District", district_list, index=len(district_list)-1)
+usage = st.sidebar.selectbox("Usage", usage_list, index=len(usage_list)-1)
 
 min_size = st.sidebar.slider("Minimum Size", step=10, min_value=int(np.min(df['Gross Area (ft²)'])), max_value=int(np.max(df['Gross Area (ft²)'])))
 max_size = st.sidebar.slider("Maximum Size", min_value=int(min_size), max_value=int(np.max(df['Gross Area (ft²)'])), step=10, value=int(np.max(df['Gross Area (ft²)'])))
@@ -18,8 +21,17 @@ max_rent = st.sidebar.slider("Maximum Rent", min_value=int(min_rent), max_value=
 
 df2 = df.copy()
 df2 = df2.dropna(axis=0)
-df2 = df2[df2['Usage'] == usage]
-df2 = df2[df2['District'] == district]
+
+if usage == 'Show All':
+    pass
+else:
+    df2 = df2[df2['Usage'] == usage]
+
+if district == 'Show All':
+    pass
+else:
+    df2 = df2[df2['District'] == district]
+
 df2 = df2[(df2['Gross Area (ft²)'] <= max_size) & (df2['Gross Area (ft²)'] >= min_size)]
 df2 = df2[(df2['Rental'] <= max_rent) & (df2['Rental'] >= min_rent)]
 st.dataframe(df2)
@@ -44,5 +56,3 @@ for d in df3['District'].unique():
     st.write(f"Average Property Price in {d} is: ${round(np.mean(df4), 2)}/sqft")
 
 df5 = df3.copy()
-
-# streamlit run app.py --server.port 
