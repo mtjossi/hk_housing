@@ -7,11 +7,11 @@ st.title("HK Properties")
 
 df = pd.read_csv('./rental.csv', index_col=0)
 
-district_list = np.append(df['District'].unique(), 'Show All')
-usage_list = np.append(df['Usage'].unique(), 'Show All')
+district_list = np.append(['Show All'], df['District'].unique())
+usage_list = np.append(['Show All'], df['District'].unique())
 
-district = st.sidebar.selectbox("District", district_list, index=len(district_list)-1)
-usage = st.sidebar.selectbox("Usage", usage_list, index=len(usage_list)-1)
+district = st.sidebar.selectbox("District", district_list, index=0)
+usage = st.sidebar.selectbox("Usage", usage_list, index=0)
 
 min_size = st.sidebar.slider("Minimum Size", step=10, min_value=int(np.min(df['Gross Area (ft²)'])), max_value=int(np.max(df['Gross Area (ft²)'])))
 max_size = st.sidebar.slider("Maximum Size", min_value=int(min_size), max_value=int(np.max(df['Gross Area (ft²)'])), step=10, value=int(np.max(df['Gross Area (ft²)'])))
