@@ -42,13 +42,11 @@ avg_price_df = round(np.mean(df['Rental per ft²']), 2)
 df3_res = df3[df3['Usage'] == 'Residential']
 df3_comm = df3[df3['Usage'] == 'Commercial Shop']
 df3_off = df3[df3['Usage'] == 'Office']
-df3_cp = df3[df3['Usage'] == 'Carpark']
 st.write(f"Average rent per square foot in above selection: ${avg_price_df}/sqft")
 st.write('----------------------')
 st.write(f"Average rent per square foot for HK Residential Properties: ${round(np.mean(df3_res['Rental per ft²']), 2)}/sqft")
 st.write(f"Average rent per square foot for HK Commercial Properties: ${round(np.mean(df3_comm['Rental per ft²']), 2)}/sqft")
 st.write(f"Average rent per square foot for HK Office Properties: ${round(np.mean(df3_off['Rental per ft²']), 2)}/sqft")
-st.write(f"Average rent per square foot for HK Car Park Properties: ${round(np.mean(df3_cp['Rental per ft²']), 2)}/sqft")
 
 st.write('----------------------')
 for d in df3['District'].unique():
